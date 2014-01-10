@@ -1,0 +1,1 @@
+# Sample Vagrant project provisioned by Salt

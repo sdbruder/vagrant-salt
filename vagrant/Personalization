@@ -1,0 +1,4 @@
+$vm_box        = "raring64"
+$vm_box_url    = "http://cloud-images.ubuntu.com/vagrant/raring/current/raring-server-cloudimg-amd64-vagrant-disk1.box"
+$vm_memory     = 384
+$vm_ip_address = "55.55.55.55"

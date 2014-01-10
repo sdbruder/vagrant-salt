@@ -1,0 +1,11 @@
+# vagrant
+
+.vagrant
+
+# os
+
+.DS_Store
+
+# ide
+
+.idea/*
